@@ -1,0 +1,11 @@
+@CHARSET "UTF-8";
+
+h1 {
+	font-family: "Times New Roman", Times, serif;
+	font-size: 25;
+}
+
+#otsikko {
+	text-align: left;
+	
+}
